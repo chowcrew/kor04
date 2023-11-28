@@ -1,0 +1,46 @@
+{
+    "header": {
+        "swap": "SWAP",
+        "inquiry": "LISTING/DEV INQUIRY"
+    },
+    "section1": {
+        "title": "Welcome to\nYESBSWAP",
+        "content": "YESBSWAP is a klaytn de-fi platform.\nBuy and sell BTC2. Enjoy the optimize of profit."
+    },
+    "section2": {
+        "title": "About YESBSWAP",
+        "content": "Gateway of BTC2\nthat anyone can easily use",
+        "vision": [
+            {
+            	"title": "SWAP",
+                "content": "Swap your USDT to BTC2"
+            },
+            {
+            	"title": "DECENTRALIZATION",
+            	"content": "Own your BTC2.\nOptimize your profit"
+            },
+
+            {
+            	"title": "VALUE",
+            	"content": "BTC2 strongly deny\ncentralized action"
+            }
+        ]
+    },
+    "swap": {
+        "buy": "BUY",
+        "sell": "SELL",
+        "payExact": "Pay Exact",
+        "getAbout": "Get About",
+        "swapNow": "SWAP NOW",
+        "wallet": "Please Connect Your Wallet First",
+        "notice": "yesBswap aims for price stabilization. To this end, as a measure to prevent a cataclysmic crash, if the daily sales volume exceeds a certain percentage (1%) of the total circulation volume, the sale will not be made.\nThis will resume at 9:00 KST the next day."
+    },
+    "swapHeader": {
+        "connect": "Connect Kaikas",
+        "disconnect": "Disconenct"
+    },
+    "footer": {
+        "copyright": "© 2023 yesBswap All rights reserved",
+    	"policy": "BTC2 is providing with price stabilization technology\napplied Patent Application No. 10-2023-0021406\ncomeinbitcoin2@gmail.com"
+	}
+}
